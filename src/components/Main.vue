@@ -2,7 +2,7 @@
 <el-container id="page">
     <el-aside>
         <div id="logo">
-            智慧识屏运营
+            管理系统
         </div>
         <side-menu />
     </el-aside>
