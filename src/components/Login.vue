@@ -2,7 +2,7 @@
 <div class="login-wrap">
     <div class="ms-login">
         <div class="ms-title">
-            登录「 智慧识屏 」后台
+            登录后台
         </div>
         <el-form class="ms-content" ref="form" :model="form" :rules="rules"
         label-width="60px" label-position="right" :hide-required-asterisk="true">
